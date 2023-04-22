@@ -22,11 +22,11 @@ Bienvenidos a los apuntes completo de Data Science.
 
 ### **Python**
 
-| **Python 3 de la A a la Z**                                                                                            |
-| ---------------------------------------------------------------------------------------------------------------------- |
-| [Python Básico](./Curso%20completo%20de%20Python%203%20de%20la%20A%20a%20la%20Z/Temario/1.Python_Basico.ipynb)         |
-| [Números en Python](./Curso%20completo%20de%20Python%203%20de%20la%20A%20a%20la%20Z/Temario/2.Numeros_en_Python.ipynb) |
-| [Strings en Python](./Curso%20completo%20de%20Python%203%20de%20la%20A%20a%20la%20Z/Temario/3.Strings_en_Python.ipynb) |
+| **Python 3 de la A a la Z**                                                                    |
+| ---------------------------------------------------------------------------------------------- |
+| [Python Básico](./Python%203%20de%20la%20A%20a%20la%20Z/Temario/1.Python_Basico.ipynb)         |
+| [Números en Python](./Python%203%20de%20la%20A%20a%20la%20Z/Temario/2.Numeros_en_Python.ipynb) |
+| [Strings en Python](./Python%203%20de%20la%20A%20a%20la%20Z/Temario/3.Strings_en_Python.ipynb) |
 
 [🔼](#temario)
 
