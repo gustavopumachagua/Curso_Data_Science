@@ -1,0 +1,2 @@
+En resumen, un script en Python es un archivo de texto plano que contiene una serie de instrucciones o comandos que se ejecutan en el intérprete de Python para realizar una tarea específica.
+Los scripts pueden ser simples o complejos, y pueden incluir cualquier cantidad de código Python.
