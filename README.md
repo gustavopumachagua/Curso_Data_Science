@@ -43,6 +43,10 @@ Bienvenidos a los apuntes completo de Data Science.
 | [Representación grafica en Python](./Python%203%20de%20la%20A%20a%20la%20Z/Temario/17.Representacion_grafica.ipynb)                   |
 | [Trabajando con archivos txt en Python](./Python%203%20de%20la%20A%20a%20la%20Z/Temario/18.Trabajando_con_archivos_txt.ipynb)         |
 | [Errores y Excepciones en Python](./Python%203%20de%20la%20A%20a%20la%20Z/Temario/19.Errores_Excepciones.ipynb)                       |
+| [List Comprehension](./Python%203%20de%20la%20A%20a%20la%20Z/Temario/20.List%20Comprehension.ipynb)                                   |
+| [Higher Order Functions](./Python%203%20de%20la%20A%20a%20la%20Z/Temario/21.Higher_Order_Functions.ipynb)                             |
+| [Exception Handling](./Python%203%20de%20la%20A%20a%20la%20Z/Temario/22.Exception_Handling.ipynb)                                     |
+| [Expresiones regulares](./Python%203%20de%20la%20A%20a%20la%20Z/Temario/23.Expresiones_regulares.ipynb)                               |
 
 [🔼](#temario)
 
@@ -117,18 +121,52 @@ Bienvenidos a los apuntes completo de Data Science.
 
 ## **Machine Learning de A a la Z: para Data Science**
 
-| **Machine Learning**                                                                                                                  |
-| ------------------------------------------------------------------------------------------------------------------------------------- |
-| [Pre procesado de datos](./Machine%20Learning%20de%20A%20a%20la%20Z/Temario/1.Pre_procesado_de_datos.ipynb)                           |
-| [Regresión](./Machine%20Learning%20de%20A%20a%20la%20Z/Temario/2.Regresion.ipynb)                                                     |
-| [Clasificación](./Machine%20Learning%20de%20A%20a%20la%20Z/Temario/3.Clasificacion.ipynb)                                             |
-| [Clustering](./Machine%20Learning%20de%20A%20a%20la%20Z/Temario/4.Clustering.ipynb)                                                   |
-| [Reglas de Asociación](./Machine%20Learning%20de%20A%20a%20la%20Z/Temario/5.Reglas_de_Asociacion.ipynb)                               |
-| [Reinforcement Learning](./Machine%20Learning%20de%20A%20a%20la%20Z/Temario/6.Reinforcement_Learning.ipynb)                           |
-| [Procesamiento del Lenguaje Natural](./Machine%20Learning%20de%20A%20a%20la%20Z/Temario/7.Procesamiento_del_Lenguaje%20Natural.ipynb) |
-| [Deep Learning](./Machine%20Learning%20de%20A%20a%20la%20Z/Temario/8.Deep_Learning.ipynb)                                             |
-| [Reducción de la dimensión](./Machine%20Learning%20de%20A%20a%20la%20Z/Temario/9.Reduccion_de_la_dimensi%C3%B3n.ipynb)                |
-| [Selección de Modelos & Boosting](./Machine%20Learning%20de%20A%20a%20la%20Z/Temario/10.Seleccion_de_Modelos_%26_Boosting.ipynb)      |
+| **Machine Learning**                                                                                                                                                               |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Pre procesado de datos](./Machine%20Learning%20de%20A%20a%20la%20Z/Temario/1.Pre_procesado_de_datos.ipynb)                                                                        |
+| [Regresión](./Machine%20Learning%20de%20A%20a%20la%20Z/Temario/2.Regresion.ipynb)                                                                                                  |
+| [Clasificación](./Machine%20Learning%20de%20A%20a%20la%20Z/Temario/3.Clasificacion.ipynb)                                                                                          |
+| [Clustering](./Machine%20Learning%20de%20A%20a%20la%20Z/Temario/4.Clustering.ipynb)                                                                                                |
+| [Reglas de Asociación](./Machine%20Learning%20de%20A%20a%20la%20Z/Temario/5.Reglas_de_Asociacion.ipynb)                                                                            |
+| [Reinforcement Learning](./Machine%20Learning%20de%20A%20a%20la%20Z/Temario/6.Reinforcement_Learning.ipynb)                                                                        |
+| [Deep Learning](./Machine%20Learning%20de%20A%20a%20la%20Z/Temario/7.Deep_Learning.ipynb)                                                                                          |
+| [Reducción de la dimensión](./Machine%20Learning%20de%20A%20a%20la%20Z/Temario/8.Reduccion_de_la_dimensi%C3%B3n.ipynb)                                                             |
+| [Selección de Modelos & Boosting](./Machine%20Learning%20de%20A%20a%20la%20Z/Temario/9.Seleccion_de_Modelos_%26_Boosting.ipynb)                                                    |
+| [Gradiente Descendente](./Machine%20Learning%20de%20A%20a%20la%20Z/Temario/10.Gradiente_Descendente.ipynb)                                                                         |
+| [Perceptrón Paso, La Base de las Redes Neuronales Artificiales](./Machine%20Learning%20de%20A%20a%20la%20Z/Temario/11.Perceptron.ipynb)                                            |
+| [Curva ROC (Receiver Operating Characteristic)](./Machine%20Learning%20de%20A%20a%20la%20Z/Temario/12.Curva_ROC.ipynb)                                                             |
+| [Árboles de Decisión (decision trees)](./Machine%20Learning%20de%20A%20a%20la%20Z/Temario/13.Arboles%20_Decision.ipynb)                                                            |
+| [Random Forest (Bosque Aleatorio)](./Machine%20Learning%20de%20A%20a%20la%20Z/Temario/14.Random_Forest.ipynb)                                                                      |
+| [DBSCAN para Clustering](./Machine%20Learning%20de%20A%20a%20la%20Z/Temario/15.DBSCAN_Clustering.ipynb)                                                                            |
+| [Ajuste de Hiperparámetros de Modelos de Machine Learning](./Machine%20Learning%20de%20A%20a%20la%20Z/Temario/16.Hiperparametros.ipynb)                                            |
+| [Bagging en Machine learning](./Machine%20Learning%20de%20A%20a%20la%20Z/Temario/17.Bagging%20_Machine_learning.ipynb)                                                             |
+| [Técnicas de Clustering (Agrupamiento)](./Machine%20Learning%20de%20A%20a%20la%20Z/Temario/18.Clustering.ipynb)                                                                    |
+| [Clases Desbalanceadas](./Machine%20Learning%20de%20A%20a%20la%20Z/Temario/19.Desbalanceadas.ipynb)                                                                                |
+| [K-Vecinos](./Machine%20Learning%20de%20A%20a%20la%20Z/Temario/20.K-Vecinos.ipynb)                                                                                                 |
+| [Datos Anómalos (outliers)](./Machine%20Learning%20de%20A%20a%20la%20Z/Temario/21.Datos_Anomalos.ipynb)                                                                            |
+| [Cross-validation](./Machine%20Learning%20de%20A%20a%20la%20Z/Temario/22.Cross_validation.ipynb)                                                                                   |
+| [K-means (o K-medias)](./Machine%20Learning%20de%20A%20a%20la%20Z/Temario/23.K-means.ipynb)                                                                                        |
+| [Impureza Gini](./Machine%20Learning%20de%20A%20a%20la%20Z/Temario/24.Impureza_Gini.ipynb)                                                                                         |
+| [Regresión Logística](./Machine%20Learning%20de%20A%20a%20la%20Z/Temario/25.Regresion_Log%C3%ADstica.ipynb)                                                                        |
+| [Matriz de Covarianza](./Machine%20Learning%20de%20A%20a%20la%20Z/Temario/26.Matriz_Covarianza.ipynb)                                                                              |
+| [3 Razones para Discretizar Datos Numéricos y Cómo Discretizar](./Machine%20Learning%20de%20A%20a%20la%20Z/Temario/27.Discretizar_Datos_Numericos.ipynb)                           |
+| [Valores Faltantes Imputando con K-Vecinos](<./Machine%20Learning%20de%20A%20a%20la%20Z/Temario/28.K-Vecinos(KNN).ipynb>)                                                          |
+| [Análisis de Componentes Principales (PCA) para Reducir la Dimensionalidad de Datos](./Machine%20Learning%20de%20A%20a%20la%20Z/Temario/29.Analisis_Componentes_Principales.ipynb) |
+| [Matriz de Confusión Precision Accuracy Recall F1](./Machine%20Learning%20de%20A%20a%20la%20Z/Temario/30.Metricas_para_Clasificadores.ipynb)                                       |
+| [Diferencias y Similitudes entre la Inteligencia Artificial y el Machine Learning](./Machine%20Learning%20de%20A%20a%20la%20Z/Temario/31.Inteligencia_Artificial.ipynb)            |
+| [Diferencias clave entre la Regresión y la Clasificación](./Machine%20Learning%20de%20A%20a%20la%20Z/Temario/32.Regresion.ipynb)                                                   |
+| [Potencializa la utilidad de tus datos con BootStrapping](./Machine%20Learning%20de%20A%20a%20la%20Z/Temario/33.BootStrapping.ipynb)                                               |
+| [Métricas para Evaluar Modelos de Regresión](./Machine%20Learning%20de%20A%20a%20la%20Z/Temario/34.Modelos_de_Regresion.ipynb)                                                     |
+| [Medidas de Centralidad](./Machine%20Learning%20de%20A%20a%20la%20Z/Temario/35.Analisis_de_Datos.ipynb)                                                                            |
+| [Visualizar Datos Categóricos](./Machine%20Learning%20de%20A%20a%20la%20Z/Temario/36.Visualizar_Datos.ipynb)                                                                       |
+| [La Maldición de la Dimensionalidad](./Machine%20Learning%20de%20A%20a%20la%20Z/Temario/37.Maldicion%20_Dimensionalidad.ipynb)                                                     |
+| [Datos de Entrenamiento, Validación y Prueba](./Machine%20Learning%20de%20A%20a%20la%20Z/Temario/38.Datos_Entrenamiento.ipynb)                                                     |
+| [ K-Vecinos Más Cercanos (KNN) para Clasificación](<./Machine%20Learning%20de%20A%20a%20la%20Z/Temario/39.K-Vecinos(KNN).ipynb>)                                                   |
+| [ Escalamiento, Normalización y Estandarización de Datos](./Machine%20Learning%20de%20A%20a%20la%20Z/Temario/40.Escalamiento_Normalizacion_Estandarizacion.ipynb)                  |
+| [Codifica datos categóricos nominales para Machine Learning](./Machine%20Learning%20de%20A%20a%20la%20Z/Temario/41.datos_categoricos_nominales.ipynb)                              |
+| [Regresión Lineal con Python](./Machine%20Learning%20de%20A%20a%20la%20Z/Temario/42.Regresion_Lineal.ipynb)                                                                        |
+| [Imputación (o Manejo de Datos Faltantes)](./Machine%20Learning%20de%20A%20a%20la%20Z/Temario/43.Datos_Faltantes.ipynb)                                                            |
+| [Clusters con Propagación de Afinidad (Affinity Propagation)](./Machine%20Learning%20de%20A%20a%20la%20Z/Temario/44.Affinity_Propagation.ipynb)                                    |
 
 [🔼](#temario)
 
@@ -142,6 +180,7 @@ Bienvenidos a los apuntes completo de Data Science.
 | [Calculo de varias variables](./Matematicas_Machine_Learning%20_Data_Science/Temario/2.Calculo_de_varias_variables.ipynb) |
 | [Algebra Lineal](./Matematicas_Machine_Learning%20_Data_Science/Temario/3.Algebra_Lineal.ipynb)                           |
 | [Estadísticas](./Matematicas_Machine_Learning%20_Data_Science/Temario/4.Estadisticas.ipynb)                               |
+| [Resumen](./Matematicas_Machine_Learning%20_Data_Science/Temario/5.Resumen.ipynb)                                         |
 
 [🔼](#temario)
 
@@ -157,6 +196,30 @@ Bienvenidos a los apuntes completo de Data Science.
 | [Estimadores y estimados](./Estadistica%20para%20Data%20Science%20y%20analisis%20de%20negocios/Temario/4.Estimadores_estimados.ipynb)                                                                 |
 | [Intervalos de confianza](./Estadistica%20para%20Data%20Science%20y%20analisis%20de%20negocios/Temario/5.Intervalos_de_confianza.ipynb)                                                               |
 | [Prueba de hipótesis](./Estadistica%20para%20Data%20Science%20y%20analisis%20de%20negocios/Temario/6.Prueba_de_hipotesis.ipynb)                                                                       |
+| [Rango, Varianza, Desviación Estándar y Rango Intercuartílico](./Estadistica%20para%20Data%20Science%20y%20analisis%20de%20negocios/Temario/7.Medidas_de_Dispersion.ipynb)                            |
+| [Cuartiles, Quintiles y Percentiles](./Estadistica%20para%20Data%20Science%20y%20analisis%20de%20negocios/Temario/8.Distribuciones_de_Datos.ipynb)                                                    |
+| [Promedio (o Media), Mediana y Moda](./Estadistica%20para%20Data%20Science%20y%20analisis%20de%20negocios/Temario/9.Tendencia_Central.ipynb)                                                          |
+| [Datos Anómalos (outliers) y Diagramas de Caja (BoxPlots)](./Estadistica%20para%20Data%20Science%20y%20analisis%20de%20negocios/Temario/10.Datos_Anomalos.ipynb)                                      |
+| [Distribución de Datos e Histogramas](./Estadistica%20para%20Data%20Science%20y%20analisis%20de%20negocios/Temario/11.Histogramas.ipynb)                                                              |
+| [Formaliza tus resultados con Intervalos de Confianza](./Estadistica%20para%20Data%20Science%20y%20analisis%20de%20negocios/Temario/12.Intervalos_de_Confianza.ipynb)                                 |
+| [Las 5 Técnicas de Muestreo que debes conocer](./Estadistica%20para%20Data%20Science%20y%20analisis%20de%20negocios/Temario/13.Tecnicas_de_Muestreo.ipynb)                                            |
+| [ Domina el Teorema del Límite Central](./Estadistica%20para%20Data%20Science%20y%20analisis%20de%20negocios/Temario/14.Teorema_del_Limite_Central.ipynb)                                             |
+| [ Visualización de Datos usando Matplotlib de Python](./Estadistica%20para%20Data%20Science%20y%20analisis%20de%20negocios/Temario/15.Visualizaci%C3%B3n_de_Datos.ipynb)                              |
+| [Filtrado de Datos en DataFrames de Pandas](./Estadistica%20para%20Data%20Science%20y%20analisis%20de%20negocios/Temario/16.Filtrado_de_Datos.ipynb)                                                  |
+| [Series de Pandas](./Estadistica%20para%20Data%20Science%20y%20analisis%20de%20negocios/Temario/17.Series_de_Pandas.ipynb)                                                                            |
+| [Explora y Visualiza Relaciones Estadísticas](./Estadistica%20para%20Data%20Science%20y%20analisis%20de%20negocios/Temario/18.Relaciones_Estadisticas.ipynb)                                          |
+| [Operaciones vectoriales con Arrays ó Arreglos](./Estadistica%20para%20Data%20Science%20y%20analisis%20de%20negocios/Temario/19.Arreglos.ipynb)                                                       |
+| [Arrays de Numpy](./Estadistica%20para%20Data%20Science%20y%20analisis%20de%20negocios/Temario/20.Busqueda_y_Filtrado.ipynb)                                                                          |
+| [ Numpy: Agregación y Ejes de Arrays (arreglos)](./Estadistica%20para%20Data%20Science%20y%20analisis%20de%20negocios/Temario/21.Agregaci%C3%B3n_y_Ejes.ipynb)                                        |
+| [Numpy: Unión y Separación de Arrays (arreglos)](./Estadistica%20para%20Data%20Science%20y%20analisis%20de%20negocios/Temario/22.Union_y_Separacion.ipynb)                                            |
+| [Acelera el procesamiento de datos con Funciones Universales (UFuncs)](./Estadistica%20para%20Data%20Science%20y%20analisis%20de%20negocios/Temario/23.Funciones_Universales.ipynb)                   |
+| [ Tipos de Graficas](./Estadistica%20para%20Data%20Science%20y%20analisis%20de%20negocios/Temario/24.Tipos_de_Graficas.ipynb)                                                                         |
+| [Coeficiente de Correlación de Kendall Tau-b](./Estadistica%20para%20Data%20Science%20y%20analisis%20de%20negocios/Temario/25.Kendall.ipynb)                                                          |
+| [Correlación de Spearman y Pearson](./Estadistica%20para%20Data%20Science%20y%20analisis%20de%20negocios/Temario/26.Spearman_y_Pearson.ipynb)                                                         |
+| [Correlación de Pearson y cómo crear Mapas de Calor de la Matriz de Correlaciones](./Estadistica%20para%20Data%20Science%20y%20analisis%20de%20negocios/Temario/27.Correlacion_de_Pearson.ipynb)      |
+| [Qué es la Estadística Inferencial](./Estadistica%20para%20Data%20Science%20y%20analisis%20de%20negocios/Temario/28.Estadistica_Inferencial.ipynb)                                                    |
+| [Distribución Normal (o Gaussiana) y la Regla Empírica 68-95-99.7](./Estadistica%20para%20Data%20Science%20y%20analisis%20de%20negocios/Temario/29.Distribucion_Normal.ipynb)                         |
+| [Puntuaciones Z y la Distribución Normal Estándar](./Estadistica%20para%20Data%20Science%20y%20analisis%20de%20negocios/Temario/30.Distribucion_Normal_Estandar.ipynb)                                |
 
 [🔼](#temario)
 
