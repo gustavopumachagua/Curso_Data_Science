@@ -12,7 +12,6 @@ Bienvenidos a los apuntes completo de Data Science.
 | [Machine Learning de A a la Z: para Data Science](#machine-learning-de-a-a-la-z-para-data-science)            |
 | [SQL](#sql)                                                                                                   |
 | [Python 3 de la A a la Z ](#python)                                                                           |
-| [Excel completo de 0 a Profesional](#excel-completo-de-0-a-profesional)                                       |
 | [Power BI – Análisis de Datos y Business Intelligence](#power-bi)                                             |
 | [Tableau de la A a la Z](#tableau-de-la-a-a-la-z)                                                             |
 | [Web Scraping](#web-scraping)                                                                                 |
@@ -220,56 +219,6 @@ Bienvenidos a los apuntes completo de Data Science.
 | [Qué es la Estadística Inferencial](./Estadistica%20para%20Data%20Science%20y%20analisis%20de%20negocios/Temario/28.Estadistica_Inferencial.ipynb)                                                    |
 | [Distribución Normal (o Gaussiana) y la Regla Empírica 68-95-99.7](./Estadistica%20para%20Data%20Science%20y%20analisis%20de%20negocios/Temario/29.Distribucion_Normal.ipynb)                         |
 | [Puntuaciones Z y la Distribución Normal Estándar](./Estadistica%20para%20Data%20Science%20y%20analisis%20de%20negocios/Temario/30.Distribucion_Normal_Estandar.ipynb)                                |
-
-[🔼](#temario)
-
----
-
-## **Excel completo de 0 a Profesional**
-
-| **Excel**                                                                                                                                                                                           |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Lo Básico: Abrir y Cerrar Excel](./Excel%20completo%20de%200%20a%20Profesional/Temario/1.Abrir_y_Cerrar_Excel.md)                                                                                  |
-| [Ingreso y edición de datos](./Excel%20completo%20de%200%20a%20Profesional/Temario/2.Ingreso_y_edicion_de_datos.md)                                                                                 |
-| [Formato](./Excel%20completo%20de%200%20a%20Profesional/Temario/3.Formato.md)                                                                                                                       |
-| [Cálculos Simples](./Excel%20completo%20de%200%20a%20Profesional/Temario/4.Calculos_Simples.md)                                                                                                     |
-| [Cálculos Complejos](./Excel%20completo%20de%200%20a%20Profesional/Temario/5.Calculos_Complejos.md)                                                                                                 |
-| [Reubicar Elementos](./Excel%20completo%20de%200%20a%20Profesional/Temario/6.Reubicar_Elementos.md)                                                                                                 |
-| [Personalizar la plantilla](./Excel%20completo%20de%200%20a%20Profesional/Temario/7.Personalizar_la_plantilla.md)                                                                                   |
-| [Formato Condicional](./Excel%20completo%20de%200%20a%20Profesional/Temario/8.Formato_Condicional.md)                                                                                               |
-| [Utilidades](./Excel%20completo%20de%200%20a%20Profesional/Temario/9.Utilidades.md)                                                                                                                 |
-| [Planillas de Ingreso (Básico)](<./Excel%20completo%20de%200%20a%20Profesional/Temario/10.Planillas_de_Ingreso(Basico).md>)                                                                         |
-| [Planillas de ingreso(Programador)](<./Excel%20completo%20de%200%20a%20Profesional/Temario/11.Planillas_de_ingreso(Programador).md>)                                                                |
-| [Búsquedas](./Excel%20completo%20de%200%20a%20Profesional/Temario/12.Busquedas.md)                                                                                                                  |
-| [Tablas](./Excel%20completo%20de%200%20a%20Profesional/Temario/13.Tablas.md)                                                                                                                        |
-| [Bases de Datos](./Excel%20completo%20de%200%20a%20Profesional/Temario/14.Bases_de_Datos.md)                                                                                                        |
-| [Nombres de Rango](./Excel%20completo%20de%200%20a%20Profesional/Temario/15.Nombres_de_Rango.md)                                                                                                    |
-| [Macros](./Excel%20completo%20de%200%20a%20Profesional/Temario/16.Macros.md)                                                                                                                        |
-| [Diagrama de Gantt](./Excel%20completo%20de%200%20a%20Profesional/Temario/17.Diagrama_de_Gantt.md)                                                                                                  |
-| [Números Aleatorios](./Excel%20completo%20de%200%20a%20Profesional/Temario/18.Numeros_Aleatorios.md)                                                                                                |
-| [Preguntas y Respuestas](./Excel%20completo%20de%200%20a%20Profesional/Temario/19.Preguntas_y_Respuestas.md)                                                                                        |
-| [Experto](./Excel%20completo%20de%200%20a%20Profesional/Temario/20.Experto.md)                                                                                                                      |
-| [El Panel de Macros(VBA)](<./Excel%20completo%20de%200%20a%20Profesional/Temario/21.El_Panel_de_Macros(VBA).md>)                                                                                    |
-| [¡A Programar!](./Excel%20completo%20de%200%20a%20Profesional/Temario/22.A_Programar.md)                                                                                                            |
-| [La caja de herramienta del programador](./Excel%20completo%20de%200%20a%20Profesional/Temario/23.La_caja_de_herramienta_del_programador.md)                                                        |
-| [Automatizando tus Reportes](./Excel%20completo%20de%200%20a%20Profesional/Temario/24.Automatizando_tus_Reportes.md)                                                                                |
-| [Programar Eventos en Excel](./Excel%20completo%20de%200%20a%20Profesional/Temario/25.Programar_Eventos_en_Excel.md)                                                                                |
-| [Funciones Definidas por el Usuario (UDF)](<./Excel%20completo%20de%200%20a%20Profesional/Temario/26.Funciones_Definidas_por_el_Usuario(UDF).md>)                                                   |
-| [UserForms()](<./Excel%20completo%20de%200%20a%20Profesional/Temario/27.UserForms().md>)                                                                                                            |
-| [Controla Windows con VBA - Crear Nuevas Carpetas](./Excel%20completo%20de%200%20a%20Profesional/Temario/28.Controla%20Windows%20con%20VBA.md)                                                      |
-| [¿Enviar emails desde Excel?](./Excel%20completo%20de%200%20a%20Profesional/Temario/29.Enviar_emails_desde_Excel.md)                                                                                |
-| [Controlar Word desde Excel](./Excel%20completo%20de%200%20a%20Profesional/Temario/30.Controlar_Word_desde_Excel.md)                                                                                |
-| [Controlar PowerPoint desde Excel](./Excel%20completo%20de%200%20a%20Profesional/Temario/31.Controlar_PowerPoint_desde_Excel.md)                                                                    |
-| [Obtener información de Múltiples Fuentes de Manera Automatizada](./Excel%20completo%20de%200%20a%20Profesional/Temario/32.Obtener_informaci%C3%B3n_de_Multiples_Fuentes_de_Manera_Automatizada.md) |
-| [Preguntas y respuestas](./Excel%20completo%20de%200%20a%20Profesional/Temario/33.Preguntas_y_respuestas.md)                                                                                        |
-| [Tablas Dinámicas](./Excel%20completo%20de%200%20a%20Profesional/Temario/34.Tablas_Dinamicas.md)                                                                                                    |
-| [Crea Tablas Dinámicas](./Excel%20completo%20de%200%20a%20Profesional/Temario/35.Crea_Tablas_Dinamicas.md)                                                                                          |
-| [Tablas Dinámicas - Gráficos Dinámicos](./Excel%20completo%20de%200%20a%20Profesional/Temario/36.Tablas_Dinamicas_Graficos_Dinamicos.md)                                                            |
-| [Tablas Dinámicas - Herramientas útiles](./Excel%20completo%20de%200%20a%20Profesional/Temario/37.Tablas_Dinamicas_Herramientas_utiles.md)                                                          |
-| [Tablas Dinámicas - Agrupar Campos](./Excel%20completo%20de%200%20a%20Profesional/Temario/38.Tablas_Dinamicas_Agrupar_Campos.md)                                                                    |
-| [Tablas Dinámicas - Trabajar con Múltiples orígenes](./Excel%20completo%20de%200%20a%20Profesional/Temario/39.Tablas_Dinamicas_Trabajar_con_Multiples_origenes.md)                                  |
-| [Tablas Dinámicas - Formato y Opciones](./Excel%20completo%20de%200%20a%20Profesional/Temario/40.Tablas_Dinamicas_Formato_y_Opciones.md)                                                            |
-| [Tablas Dinámicas - Crea un Tablero (Dashboards)](<./Excel%20completo%20de%200%20a%20Profesional/Temario/41.Tablas_Dinamicas_Crea_un_Tablero_(Dashboards).md>)                                      |
 
 [🔼](#temario)
 
