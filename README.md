@@ -16,6 +16,9 @@ Bienvenidos a los apuntes completo de Data Science.
 | [Tableau de la A a la Z](#tableau-de-la-a-a-la-z)                                                             |
 | [Web Scraping](#web-scraping)                                                                                 |
 | [The Business Intelligence Analyst](#the-business-intelligence-analyst)                                       |
+| [Bootcamp Data Science](#bootcamp-data-science)                                                               |
+| [Bootcamp Data Analyst](#bootcamp-data-analyst)                                                               |
+| [Ejercicios](#ejercicios)                                                                                     |
 
 ---
 
@@ -255,6 +258,103 @@ Bienvenidos a los apuntes completo de Data Science.
 | [Autenticación y Captchas](./Web%20Scraping/Temario/7.Autenticaci%C3%B3n_y_Captchas.ipynb)                                                         |
 | [Evitando Problemas: Éticas](./Web%20Scraping/Temario/8.Evitando_Problemas_Eticas.ipynb)                                                           |
 | [Automatización, almacenamiento y actualización de datos](./Web%20Scraping/Temario/9.Automatizacion_almacenamiento_y_actualizacion_de_datos.ipynb) |
+
+[🔼](#temario)
+
+---
+
+## **Ejercicios**
+
+| **Ejercicios**                                                                             |
+| ------------------------------------------------------------------------------------------ |
+| [Ejercicio Basico de Python](./Ejercicios/Python_Ejercicios/1.Ejercicios_Python.ipynb)     |
+| [Ejercicio Intermedio de Python](./Ejercicios/Python_Ejercicios/2.Ejercicios_Python.ipynb) |
+| [Ejercicio Avanzado de Python](./Ejercicios/Python_Ejercicios/3.Ejercicios_Python.ipynb)   |
+| [Ejercicio Basico de SQL](./Ejercicios/SQL_Ejercicios/1.SQL_Ejercicios.md)                 |
+| [Ejercicio Intermedio de SQL](./Ejercicios/SQL_Ejercicios/2.SQL_Eejercicios.md)            |
+| [Ejercicio Avanzado de SQL](./Ejercicios/SQL_Ejercicios/3.SQL_Ejercicios.md)               |
+
+[🔼](#temario)
+
+---
+
+## **Bootcamp Data Analyst**
+
+| **Bootcamp Data Analyst**                                                                                                                                                              |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [INTRODUCCIÓN AL ANÁLISIS DE DATOS](./Bootcamp%20Data%20Analyst/1.FUNDAMENTOS%20PARA%20EL%20ANALISIS%20DE%20DATOS/Temario/1.INTRODUCCION_AL_ANALISIS_DE_DATOS.ipynb)                   |
+| [INTRODUCCIÓN AL ÁLGEBRA LINEAL](./Bootcamp%20Data%20Analyst/1.FUNDAMENTOS%20PARA%20EL%20ANALISIS%20DE%20DATOS/Temario/2.INTRODUCCION_AL_ALGEBRA_LINEAL.ipynb)                         |
+| [EL FLUJO DE LOS DATO](./Bootcamp%20Data%20Analyst/1.FUNDAMENTOS%20PARA%20EL%20ANALISIS%20DE%20DATOS/Temario/3.EL_FLUJO_DE_LOS_DATO.ipynb)                                             |
+| [ANALÍTICA DESCRIPTIVA Y PREDICTIVA](./Bootcamp%20Data%20Analyst/1.FUNDAMENTOS%20PARA%20EL%20ANALISIS%20DE%20DATOS/Temario/4.ANALITICA_DESCRIPTIVA_Y_PREDICTIVA.ipynb)                 |
+| [INTRODUCCIÓN A NUMPY](./Bootcamp%20Data%20Analyst/2.PYTHON%20PARA%20EL%20ANALISIS%20DE%20DATOS/Temario/1.INTRODUCCION_A_NUMPY.ipynb)                                                  |
+| [INTRODUCCIÓN A PANDAS](./Bootcamp%20Data%20Analyst/2.PYTHON%20PARA%20EL%20ANALISIS%20DE%20DATOS/Temario/2.INTRODUCCION_A_PANDAS.ipynb)                                                |
+| [VISUALIZACIÓN EN PYTHON (MATPLOTLIB)](<./Bootcamp%20Data%20Analyst/2.PYTHON%20PARA%20EL%20ANALISIS%20DE%20DATOS/Temario/3.VISUALIZACION_EN_PYTHON_(MATPLOTLIB).ipynb>)                |
+| [LIMPIEZA Y PREPARACIÓN DE DATOS](./Bootcamp%20Data%20Analyst/2.PYTHON%20PARA%20EL%20ANALISIS%20DE%20DATOS/Temario/4.LIMPIEZA_Y_PREPARACION_DE_DATOS.ipynb)                            |
+| [PROBABILIDAD Y VARIABLES ALEATORIAS](./Bootcamp%20Data%20Analyst/3.ESTADISTICA%20DESCRIPTIVA%20E%20INFERENCIAL/Temario/1.PROBABILIDAD_Y_VARIABLES_ALEATORIAS.ipynb)                   |
+| [MEDIDAS DE RESUMEN Y REPRESENTACIÓN DE DATOS](./Bootcamp%20Data%20Analyst/3.ESTADISTICA%20DESCRIPTIVA%20E%20INFERENCIAL/Temario/2.MEDIDAS_DE_RESUMEN_Y_REPRESENTACION_DE_DATOS.ipynb) |
+| [ESTIMACIÓN](./Bootcamp%20Data%20Analyst/3.ESTADISTICA%20DESCRIPTIVA%20E%20INFERENCIAL/Temario/3.ESTIMACION.ipynb)                                                                     |
+| [PRUEBAS DE HIPÓTESIS](./Bootcamp%20Data%20Analyst/3.ESTADISTICA%20DESCRIPTIVA%20E%20INFERENCIAL/Temario/4.PRUEBAS_DE_HIPOTESIS.ipynb)                                                 |
+| [INTRODUCCIÓN A INTELIGENCIA DE NEGOCIOS](./Bootcamp%20Data%20Analyst/4.MODELAMIENTO%20DE%20DATOS%20CON%20SQL/Temario/1.INTRODUCCION_A_INTELIGENCIA_DE_NEGOCIOS.md)                    |
+| [MODELAMIENTO DE DATOS](./Bootcamp%20Data%20Analyst/4.MODELAMIENTO%20DE%20DATOS%20CON%20SQL/Temario/2.MODELAMIENTO_DE_DATOS.md)                                                        |
+| [MANIPULACIÓN DE DATOS CON SQL SERVER](./Bootcamp%20Data%20Analyst/4.MODELAMIENTO%20DE%20DATOS%20CON%20SQL/Temario/3.MANIPULACION_DE_DATOS_CON_SQL_SERVER.md)                          |
+| [VISTAS Y PROCEDIMIENTOS ALMACENADOS](./Bootcamp%20Data%20Analyst/4.MODELAMIENTO%20DE%20DATOS%20CON%20SQL/Temario/4.VISTAS_Y_PROCEDIMIENTOS_ALMACENADOS.md)                            |
+| [INTELIGENCIA DE NEGOCIOS CON MS 2019](./Bootcamp%20Data%20Analyst/4.MODELAMIENTO%20DE%20DATOS%20CON%20SQL/Temario/5.INTELIGENCIA_DE_NEGOCIOS_CON_MS_2019.md)                          |
+| [ELABORACIÓN DE ETLs CON SSIS](./Bootcamp%20Data%20Analyst/4.MODELAMIENTO%20DE%20DATOS%20CON%20SQL/Temario/6.ELABORACION_DE_ETLs_CON_SSIS.md)                                          |
+| [MODELAMIENTO MULTIDIMENSIONAL CON SSAS](./Bootcamp%20Data%20Analyst/4.MODELAMIENTO%20DE%20DATOS%20CON%20SQL/Temario/7.MODELAMIENTO_MULTIDIMENSIONAL_CON_SSAS.md)                      |
+| [ELABORACIÓN DE REPORTES CON CON SSRS](./Bootcamp%20Data%20Analyst/4.MODELAMIENTO%20DE%20DATOS%20CON%20SQL/Temario/8.ELABORACION_DE_REPORTES_CON_CON_SSRS.md)                          |
+| [INTRODUCCIÓN A POWER BI](./Bootcamp%20Data%20Analyst/5.POWER%20BI%20INTERMEDIATE%20%26%20ADVANCED/Temario/1.INTRODUCCION_A_POWER_BI.md)                                               |
+| [PREPARACIÓN DE LOS DATOS](./Bootcamp%20Data%20Analyst/5.POWER%20BI%20INTERMEDIATE%20%26%20ADVANCED/Temario/2.PREPARACION_DE_LOS_DATOS.md)                                             |
+| [MODELADO DE DATOS](./Bootcamp%20Data%20Analyst/5.POWER%20BI%20INTERMEDIATE%20%26%20ADVANCED/Temario/3.MODELADO_DE_DATOS.md)                                                           |
+| [DAX](./Bootcamp%20Data%20Analyst/5.POWER%20BI%20INTERMEDIATE%20%26%20ADVANCED/Temario/4.DAX.md)                                                                                       |
+| [VISUALIZACIÓN DE DATOS I](./Bootcamp%20Data%20Analyst/5.POWER%20BI%20INTERMEDIATE%20%26%20ADVANCED/Temario/5.VISUALIZACION_DE_DATOS_I.md)                                             |
+| [POWER BI AL SERVICIO DE LA ORGANIZACIÓN](./Bootcamp%20Data%20Analyst/5.POWER%20BI%20INTERMEDIATE%20%26%20ADVANCED/Temario/6.POWER_BI_AL_SERVICIO_DE_LA_ORGANIZACION.md)               |
+| [MODELADO DE DATOS](./Bootcamp%20Data%20Analyst/5.POWER%20BI%20INTERMEDIATE%20%26%20ADVANCED/Temario/7.MODELADO_DE_DATOS.md)                                                           |
+| [INTEGRACIÓN DE DATOS CON POWER QUERY](./Bootcamp%20Data%20Analyst/5.POWER%20BI%20INTERMEDIATE%20%26%20ADVANCED/Temario/8.INTEGRACION_DE_DATOS_CON_POWER_QUERY.md)                     |
+| [ENRIQUECIENDO NUESTRO MODELO DE DATOS](./Bootcamp%20Data%20Analyst/5.POWER%20BI%20INTERMEDIATE%20%26%20ADVANCED/Temario/9.ENRIQUECIENDO_NUESTRO_MODELO_DE_DATOS.md)                   |
+| [VISUALIZACIÓN DE DATOS II](./Bootcamp%20Data%20Analyst/5.POWER%20BI%20INTERMEDIATE%20%26%20ADVANCED/Temario/10.VISUALIZACION_DE_DATOS_II.md)                                          |
+
+[🔼](#temario)
+
+---
+
+## **Bootcamp Data Science**
+
+| **Bootcamp Data Science**                                                                                                                                                                                            |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [INTRODUCCIÓN AL ANÁLISIS DE DATOS](./Bootcamp%20Data%20Science/1.FUNDAMENTOS%20PARA%20CIENCIA%20DE%20DATOS/Temario/1.INTRODUCCION_AL_ANALISIS_DE_DATOS.ipynb)                                                       |
+| [INTRODUCCIÓN AL ÁLGEBRA LINEAL](./Bootcamp%20Data%20Science/1.FUNDAMENTOS%20PARA%20CIENCIA%20DE%20DATOS/Temario/2.INTRODUCCION_AL_ALGEBRA_LINEAL.ipynb)                                                             |
+| [INTRODUCCIÓN A LA ESTADÍSTICA DESCRIPTIVA Y MACHINE LEARNING](./Bootcamp%20Data%20Science/1.FUNDAMENTOS%20PARA%20CIENCIA%20DE%20DATOS/Temario/3.INTRODUCCION_A_LA_ESTADISTICA_DESCRIPTIVA_Y_MACHINE_LEARNING.ipynb) |
+| [VARIABLES Y ESTRUCTURAS DE DATOS](./Bootcamp%20Data%20Science/2.FUNDAMENTOS%20DE%20PYTHON%20PARA%20CIENCIA%20DE%20DATOS/Temario/1.VARIABLES_Y_ESTRUCTURAS_DE_DATOS.ipynb)                                           |
+| [BUCLES Y FUNCIONES](./Bootcamp%20Data%20Science/2.FUNDAMENTOS%20DE%20PYTHON%20PARA%20CIENCIA%20DE%20DATOS/Temario/2.BUCLES_Y_FUNCIONES.ipynb)                                                                       |
+| [LIBRERÍAS PARA ANÁLISIS DE DATOS](./Bootcamp%20Data%20Science/2.FUNDAMENTOS%20DE%20PYTHON%20PARA%20CIENCIA%20DE%20DATOS/Temario/3.LIBRERIAS_PARA_ANALISIS_DE_DATOS.ipynb)                                           |
+| [PROBABILIDAD](./Bootcamp%20Data%20Science/3.ESTAD%C3%8DSTICA%20DESCRIPTIVA/Temario/1.PROBABILIDAD.ipynb)                                                                                                            |
+| [VARIABLES ALEATORIAS](./Bootcamp%20Data%20Science/3.ESTAD%C3%8DSTICA%20DESCRIPTIVA/Temario/2.VARIABLES_ALEATORIAS.ipynb)                                                                                            |
+| [DISTRIBUCIONES DE PROBABILIDAD](./Bootcamp%20Data%20Science/3.ESTAD%C3%8DSTICA%20DESCRIPTIVA/Temario/3.DISTRIBUCIONES_DE_PROBABILIDAD.ipynb)                                                                        |
+| [VISUALIZACIÓN DE DATOS](./Bootcamp%20Data%20Science/3.ESTAD%C3%8DSTICA%20DESCRIPTIVA/Temario/4.VISUALIZACION_DE_DATOS.ipynb)                                                                                        |
+| [DISTRIBUCIONES MULTIVARIANTES](./Bootcamp%20Data%20Science/4.ESTAD%C3%8DSTICA%20INFERENCIAL/Temario/1.DISTRIBUCIONES_MULTIVARIANTES.ipynb)                                                                          |
+| [LA MUESTRA ALEATORIA](./Bootcamp%20Data%20Science/4.ESTAD%C3%8DSTICA%20INFERENCIAL/Temario/2.LA_MUESTRA_ALEATORIA.ipynb)                                                                                            |
+| [ESTIMACIÓN DE PARÁMETROS POBLACIONALES](./Bootcamp%20Data%20Science/4.ESTAD%C3%8DSTICA%20INFERENCIAL/Temario/3.ESTIMACION_DE_PARAMETROS_POBLACIONALES.ipynb)                                                        |
+| [PRUEBAS DE HIPÓTESIS](./Bootcamp%20Data%20Science/4.ESTAD%C3%8DSTICA%20INFERENCIAL/Temario/4.PRUEBAS_DE_HIPOTESIS.ipynb)                                                                                            |
+| [TEOREMA DE BAYES](./Bootcamp%20Data%20Science/5.ESTAD%C3%8DSTICA%20BAYESIANA/Temario/1.TEOREMA_DE_BAYES.ipynb)                                                                                                      |
+| [ESTIMACIÓN BAYESIANA](./Bootcamp%20Data%20Science/5.ESTAD%C3%8DSTICA%20BAYESIANA/Temario/2.ESTIMACION_BAYESIANA.ipynb)                                                                                              |
+| [OPERACIONES BAYESIANAS](./Bootcamp%20Data%20Science/5.ESTAD%C3%8DSTICA%20BAYESIANA/Temario/3.OPERACIONES_BAYESIANAS.ipynb)                                                                                          |
+| [CLASIFICACIÓN BAYESIANA](./Bootcamp%20Data%20Science/5.ESTAD%C3%8DSTICA%20BAYESIANA/Temario/4.CLASIFICACION_BAYESIANA.ipynb)                                                                                        |
+| [IMPUTACIÓN DE DATOS](./Bootcamp%20Data%20Science/6.PYTHON%20PARA%20CIENCIA%20DE%20DATOS/Temario/1.IMPUTACION_DE_DATOS.ipynb)                                                                                        |
+| [TRATAMIENTO DE OUTLIERS](./Bootcamp%20Data%20Science/6.PYTHON%20PARA%20CIENCIA%20DE%20DATOS/Temario/2.TRATAMIENTO_DE_OUTLIERS.ipynb)                                                                                |
+| [SELECCIÓN DE CARACTERÍSTICAS](./Bootcamp%20Data%20Science/6.PYTHON%20PARA%20CIENCIA%20DE%20DATOS/Temario/3.SELECCION_DE_CARACTERISTICAS.ipynb)                                                                      |
+| [BALANCE DE DATOS](./Bootcamp%20Data%20Science/6.PYTHON%20PARA%20CIENCIA%20DE%20DATOS/Temario/4.BALANCE_DE_DATOS.ipynb)                                                                                              |
+| [ALGORITMOS DE REGRESIÓN](./Bootcamp%20Data%20Science/7.MACHINE%20LEARNING/Temario/1.ALGORITMOS_DE_REGRESION.ipynb)                                                                                                  |
+| [ALGORITMOS DE CLASIFICACIÓN](./Bootcamp%20Data%20Science/7.MACHINE%20LEARNING/Temario/2.ALGORITMOS_DE_CLASIFICACION.ipynb)                                                                                          |
+| [ALGORITMOS DE CLUSTERING](./Bootcamp%20Data%20Science/7.MACHINE%20LEARNING/Temario/3.ALGORITMOS_DE_CLUSTERING.ipynb)                                                                                                |
+| [MÉTODOS AVANZADOS PARA MACHINE LEARNING](./Bootcamp%20Data%20Science/7.MACHINE%20LEARNING/Temario/4.METODOS_AVANZADOS_PARA_MACHINE_LEARNING.ipynb)                                                                  |
+| [REGRESIÓN LINEAL](./Bootcamp%20Data%20Science/8.MODELOS%20ESTAD%C3%8DSTICOS/Temario/1.REGRESION_LINEAL.ipynb)                                                                                                       |
+| [REGRESIÓN LOGÍSTICA](./Bootcamp%20Data%20Science/8.MODELOS%20ESTAD%C3%8DSTICOS/Temario/2.REGRESION_LOGISTICA.ipynb)                                                                                                 |
+| [ANÁLISIS DISCRIMINANTE](./Bootcamp%20Data%20Science/8.MODELOS%20ESTAD%C3%8DSTICOS/Temario/3.ANALISIS_DISCRIMINANTE.ipynb)                                                                                           |
+| [ANÁLISIS DE COMPONENTES PRINCIPALES](./Bootcamp%20Data%20Science/8.MODELOS%20ESTAD%C3%8DSTICOS/Temario/4.ANALISIS_DE_COMPONENTES_PRINCIPALES.ipynb)                                                                 |
+| [DEFINICIONES](./Bootcamp%20Data%20Science/9.SERIE%20TEMPORALES/Temario/1.DEFINICIONES.ipynb)                                                                                                                        |
+| [MODELOS DE SUAVIZAMIENTO](./Bootcamp%20Data%20Science/9.SERIE%20TEMPORALES/Temario/2.MODELOS_DE_SUAVIZAMIENTO.ipynb)                                                                                                |
+| [ARIMA](./Bootcamp%20Data%20Science/9.SERIE%20TEMPORALES/Temario/3.ARIMA.ipynb)                                                                                                                                      |
+| [OTROS MÉTODOS](./Bootcamp%20Data%20Science/9.SERIE%20TEMPORALES/Temario/4.OTROS_METODOS.ipynb)                                                                                                                      |
 
 [🔼](#temario)
 
