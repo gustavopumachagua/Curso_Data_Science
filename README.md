@@ -19,6 +19,7 @@ Bienvenidos a los apuntes completo de Data Science.
 | [Bootcamp Data Science](#bootcamp-data-science)                                                               |
 | [Bootcamp Data Analyst](#bootcamp-data-analyst)                                                               |
 | [Ejercicios](#ejercicios)                                                                                     |
+| [Miselania](#miselania)                                                                                       |
 
 ---
 
@@ -359,3 +360,14 @@ Bienvenidos a los apuntes completo de Data Science.
 [🔼](#temario)
 
 ---
+
+## **Miselania**
+
+| **Miselania**                                                                                                              |
+| -------------------------------------------------------------------------------------------------------------------------- |
+| [Estadistica con Python](./Miscelanea/1_Estadistica%20con%20Python/1_Estadistica_Inferencial.ipynb)                        |
+| [Analisis de Datos con Python](./Miscelanea/2_Analisis_de_Datos_con_Python/1_Jupyter_Notebook.ipynb)                       |
+| [Inteligencia Artificial](./Miscelanea/3_Inteligencia%20Artificial%20y%20Machine%20Learning/1_Gradiente_Descendente.ipynb) |
+| [Programacion Basica con Python](./Miscelanea/4_Programacion_Basica_con_Python/1_Programacion_Orientada_a_Objetos.ipynb)   |
+
+[🔼](#temario)
