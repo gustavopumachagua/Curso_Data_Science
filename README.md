@@ -370,5 +370,6 @@ Bienvenidos a los apuntes completo de Data Science.
 | [Inteligencia Artificial](./Miscelanea/3_Inteligencia%20Artificial%20y%20Machine%20Learning/1_Gradiente_Descendente.ipynb) |
 | [Programacion Basica con Python](./Miscelanea/4_Programacion_Basica_con_Python/1_Programacion_Orientada_a_Objetos.ipynb)   |
 | [Python Para Datacience](./Aprende%20Python/Temario/1_Numpy.ipynb)                                                         |
+| [Curso Definitivo Machine Learning](./Curso_Definitivo_Data_Science/Temario/1_Machine_Learning.ipynb)                      |
 
 [🔼](#temario)

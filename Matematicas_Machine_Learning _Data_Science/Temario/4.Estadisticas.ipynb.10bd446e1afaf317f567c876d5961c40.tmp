@@ -1,7 +1,0 @@
-# Conjunto de datos
-datos = [4, 6, 8, 10, 12]
-
-# Mediana
-mediana = np.median(datos)
-
-print("Mediana:", mediana)
