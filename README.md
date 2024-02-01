@@ -117,6 +117,7 @@ Bienvenidos a los apuntes completo de Data Science.
 | [Scheduled JOBS](./SQL/Temario/20.Scheduled_JOBS.md)                                                                         |
 | [Administración de usuarios, roles, shemas y permisos](./SQL/Temario/21.Administracion_de_usuarios_roles_shemas_permisos.md) |
 | [SQL SERVER Profiler](./SQL/Temario/22.SQL_SERVER_Profiler.md)                                                               |
+| [SQL SERVER Practico](./SQL_Practico/Temario/1_introduccion_sql.md)                                                          |
 
 [🔼](#temario)
 
